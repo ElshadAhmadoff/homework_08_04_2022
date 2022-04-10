@@ -1,0 +1,17 @@
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\bin\Debug\net6.0\homework_08_04_2022.exe
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\bin\Debug\net6.0\homework_08_04_2022.deps.json
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\bin\Debug\net6.0\homework_08_04_2022.runtimeconfig.json
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\bin\Debug\net6.0\homework_08_04_2022.dll
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\bin\Debug\net6.0\homework_08_04_2022.pdb
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\obj\Debug\net6.0\homework_08_04_2022.csproj.AssemblyReference.cache
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\obj\Debug\net6.0\homework_08_04_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\obj\Debug\net6.0\homework_08_04_2022.AssemblyInfoInputs.cache
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\obj\Debug\net6.0\homework_08_04_2022.AssemblyInfo.cs
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\obj\Debug\net6.0\homework_08_04_2022.csproj.CoreCompileInputs.cache
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\obj\Debug\net6.0\homework_08_04_2022.dll
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\obj\Debug\net6.0\refint\homework_08_04_2022.dll
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\obj\Debug\net6.0\homework_08_04_2022.pdb
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\obj\Debug\net6.0\homework_08_04_2022.genruntimeconfig.cache
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\obj\Debug\net6.0\ref\homework_08_04_2022.dll
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Elshad\source\repos\homework_08_04_2022\homework_08_04_2022\obj\Debug\net6.0\homework_08_04_2022.csproj.CopyComplete

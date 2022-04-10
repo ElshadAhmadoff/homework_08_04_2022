@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L1Y82eWbCqoNQj6/itttvaBR2pbZcboXvu6PjZ58yBUumEZo/w+3z+4Oegj06p7Jm2V2vqtSwXdgC9pSFTa5xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elshad\\source\\repos\\homework_08_04_2022\\homework_08_04_2022\\homework_08_04_2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elshad\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
